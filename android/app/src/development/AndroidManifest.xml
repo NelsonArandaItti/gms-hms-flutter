@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="py.com.ueno.mowi">
+    <application>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR KEY" />
+    </application>
+</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17091383166",
+    "project_id": "mowi-push-test",
+    "storage_bucket": "mowi-push-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17091383166:android:93bdab344a9cb3915f6d2f",
+        "android_client_info": {
+          "package_name": "py.com.ueno.mowi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17091383166-6141a5fshg7k16bbqkte005158d3o51m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcN7wd12JqPkf3rSCdlaf4DVAzuZtZKFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17091383166-6141a5fshg7k16bbqkte005158d3o51m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
